@@ -1,4 +1,4 @@
-module github.com/glerach/db-util
+module github.com/glerach/db_util
 
 go 1.20
 
